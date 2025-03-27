@@ -8,6 +8,8 @@ This project serves as both a practical utility and a learning exercise in syste
 
 ![Screenshot of the script output](scrot.webp)
 
+__The original script was published as a gist [here]((https://gist.github.com/ctrl-alt-fail/52ca731bbe1a97a8c1184b0a1ef95c7b)).__
+
 ---
 
 # How I Used AI to Improve My Bash Script — and Became a Better Engineer

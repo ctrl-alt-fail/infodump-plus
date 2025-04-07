@@ -18,12 +18,6 @@ In 2022, I wrote a Bash script called `infodump` — a simple diagnostic tool th
 
 But recently, I decided to revisit and improve it using a powerful tool — AI.
 
-## Why I Revisited It
-
-I'm currently pursuing roles in cloud infrastructure and high-performance computing (HPC), where Linux, diagnostics, and automation are core skills. The job descriptions often mention "AI-powered tools" as part of the support workflow.
-
-So I decided to turn this script into more than a snippet — I turned it into a learning experience.
-
 ## How AI Helped Me Improve It
 
 With help from ChatGPT, I:
